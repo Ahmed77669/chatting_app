@@ -1,16 +1,47 @@
-# chating_app
+# Chatting App
 
-A new Flutter project.
+Quick Chat is a modern chatting application that allows users to send and receive messages and photos. Users can also update their profile picture, making it easy to stay connected and share updates with friends and family.
+
+## Features
+
+- Real-time Messaging: Send and receive text messages instantly.
+- Photo Sharing: Share photos with friends in your chat.
+- Profile Picture: Change and update your profile picture.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK (version 3.0 or higher)
+- Dart (version 2.18 or higher)
+- Firebase account and a Firestore database setup
+- Hive (for local storage)
+- Basic knowledge of Flutter and Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/yourusername/chatting_app.git
+   cd notes-app
+
+
+### ScreenShots
+
+![Screenshot 2024-08-24 030125](https://github.com/user-attachments/assets/3e0aa913-9af4-4adc-9335-2ed3067a638e)
+
+![Screenshot 2024-08-24 030147](https://github.com/user-attachments/assets/7433b19f-96fb-4e9f-b729-b6943fe88fb9)
+
+![Screenshot 2024-08-24 030200](https://github.com/user-attachments/assets/abc994a1-69c3-48bf-9399-69de0bafea5f)
+![Screenshot 2024-08-24 030250](https://github.com/user-attachments/assets/401f18d8-7da9-449a-a7fb-7b30d6aadf43)
+![Screenshot 2024-08-24 030304](https://github.com/user-attachments/assets/b241df27-f003-440e-81ac-05c689c96b4d)
+![Screenshot 2024-08-24 030323](https://github.com/user-attachments/assets/d254e325-7bc1-4e8e-b6b6-b80bd33c44ce)
+
+![Screenshot 2024-08-24 030917](https://github.com/user-attachments/assets/4c1aa527-5a9f-4ba1-abda-5b2ac4038e15)
+
+
+
+### Don't forget to setup your apiKey in firbase_options and google-service.json
