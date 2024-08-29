@@ -36,11 +36,13 @@ These instructions will get you a copy of the project up and running on your loc
 ![Screenshot 2024-08-24 030147](https://github.com/user-attachments/assets/7433b19f-96fb-4e9f-b729-b6943fe88fb9)
 
 ![Screenshot 2024-08-24 030200](https://github.com/user-attachments/assets/abc994a1-69c3-48bf-9399-69de0bafea5f)
-![Screenshot 2024-08-24 030250](https://github.com/user-attachments/assets/401f18d8-7da9-449a-a7fb-7b30d6aadf43)
+![Screenshot 2024-08-29 113445](https://github.com/user-attachments/assets/542f9c0a-6e42-4f56-9e1f-f330249cd304)
+
 ![Screenshot 2024-08-24 030304](https://github.com/user-attachments/assets/b241df27-f003-440e-81ac-05c689c96b4d)
 ![Screenshot 2024-08-24 030323](https://github.com/user-attachments/assets/d254e325-7bc1-4e8e-b6b6-b80bd33c44ce)
 
-![Screenshot 2024-08-24 030917](https://github.com/user-attachments/assets/4c1aa527-5a9f-4ba1-abda-5b2ac4038e15)
+![Screenshot 2024-08-29 113907](https://github.com/user-attachments/assets/79b619f9-946a-4dc0-8fc5-682027b00d51)
+
 
 
 
